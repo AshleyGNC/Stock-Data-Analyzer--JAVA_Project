@@ -1,4 +1,4 @@
-# Stock-Data-Analyzer--JAVA_Project
+# Stock-Data-Analyzer-JAVA_Project
 A Simple Stock Data Analyzer
 
 Goals:
