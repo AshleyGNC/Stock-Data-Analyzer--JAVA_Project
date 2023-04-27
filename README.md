@@ -11,7 +11,7 @@ Goals:
 
 ● Learn how to build an in-memory database for data analysis.
 
-This project can be done with a single partner.
+
 
 
 Tasks:
